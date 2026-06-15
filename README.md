@@ -1,2 +1,1 @@
-# profile
-Profile
+# Hi, I'm Frendy 👋
